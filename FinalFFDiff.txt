@@ -1,0 +1,91 @@
+abnormality,noun,FireFox,,Mozilla detected a serious abnormality in its internal data,,END
+abort,noun,FireFox,,Do you want to abort this download,,END
+addressbook,noun,FireFox,,Failed to export addressbook file access denied,,END
+aggregate,noun,FireFox,,We encourage users to visualize the state of tracking as an aggregate,,END
+alternate text,noun,FireFox,,If the image is relevant to the content of the document you must supply alternate text,,END
+appearance,noun,FireFox,,Modify the appearance and importance of tags using the settings below,,END
+attacker,noun,FireFox,,An attacker could easily reveal information which you thought to be safe,,END
+attendee,noun,FireFox,,Additional changes will notify all attendees accordingly,,END
+authenticate,verb,FireFox,,The endpoint you are connecting to needs more information to authenticate this connection,,END
+black box,verb,FireFox,,The following sources were black boxed,blackbox,END
+bookmark,noun,FireFox,,Get results from your bookmarks and history when you search,,END
+bookmark,verb,FireFox,,Bookmark this page,,END
+boolean,noun,FireFox,,Toggles the boolean preference specified by input,,END
+boot,verb,FireFox,Remove a user from an online space,You have been booted from the chatroom,,END
+breakpoint,noun,FireFox,,Resumes the main thread and continues execution following a breakpoint until the next breakpoint or the termination of the script,,END
+buddy list,noun,FireFox,,Sam added you to her buddy list do you want to allow her to see you,,END
+certificate authority,noun,FireFox,,The certificate used to sign the message was issued by a certificate authority whose own certificate is not yet valid,,END
+channel operator,noun,FireFox,,You must be a channel operator to do this,,END
+channel,noun,FireFox,,Remove channel voice status from someone preventing them from speaking if the channel is moderated,,END
+checkbox,noun,FireFox,,Uncheck this checkbox to store mail for this account,,END
+clipboard,noun,FireFox,,Copy text to clipboard,,END
+clockwise,adverb,FireFox,,Rotate Clockwise,,END
+command,noun,FireFox,,Send a command to Chatbot,,END
+compact view,noun,FireFox,,Favorite Folders Compact View,,END
+compact,adjective,FireFox,,A compact theme with a dark color scheme,,END
+compact,verb,FireFox,,Do you wish to compact all local and offline folders,,END
+compositor,noun,FireFox,,Animation cannot be run on the compositor,,END
+constraint,noun,FireFox,,Certificate path length constraint is invalid,,END
+context,noun,FireFox,,The following protocol isn't associated with any program or is not allowed in this context,,END
+contribute,verb,FireFox,,Contribute to the development of this add-on,,END
+corrupt,adjective,FireFox,,The add-on downloaded from this site could not be installed because it appears to be corrupt,,END
+corrupt,verb,FireFox,,The response from the OCSP server was corrupted or improperly formed,,END
+corrupted,adjective,FireFox,,Invalid or corrupted PDF file,,END
+counterclockwise,adverb,FireFox,,Rotate Counterclockwise,,END
+debug,noun,FireFox,,Turning this on will allow you to debug add-ons,,END
+deceptive site,noun,FireFox,,This web page has been reported as a deceptive site and has been blocked,,END
+disallow,verb,FireFox,,You disallowed countering when sending out the invitation,,END
+dispatch,verb,FireFox,,If you are dispatching this command from a script you may override this behaviour,,END
+distrust,verb,FireFox,,If you delete or distrust a certificate authority CA certificate this application will no longer trust any certificates,,END
+disturb,verb,FireFox,Aggressively notify,Do not disturb me until I restart,,END
+eavesdropping,noun,FireFox,,You have requested a page that is only partially encrypted and does not prevent eavesdropping,,END
+enable,verb,FireFox,Activate a feature,You cannot enable this filter,,END
+encrypt,verb,FireFox,,Encrypt This Message,,END
+end user,noun,FireFox,,Request on the main thread is deprecated because of its detrimental effects to the end user,end-user,END
+executable file,noun,FireFox,,Executable files may contain viruses or other malicious code,,END
+external,adjective,FireFox,,If enabled  will automatically consider messages marked by this external classifier as junk,,END
+feed aggregator,noun,FireFox,,Would you like to make it your default feed aggregator,,END
+garbage collection,noun,FireFox,,A full non-incremental garbage collection was triggered because there was a faster rate of allocations,,END
+hack,verb,FireFox,,Hack the Developer Tools,,END
+half-operator status,noun,FireFox,,Requires operator or half-operator status,,END
+homepage,noun,FireFox,,Please visit the ChatZilla homepage for more information,,END
+idle,adjective,FireFox,,The worker was idle for a relatively long time,,END
+illegal,adjective,FireFox,Not compatible,illegal characters in public id,,END
+import,verb,FireFox,,The feed subscriptions import from file S,,END
+insecure,adjective,FireFox,,This is an insecure server,,END
+issuer,noun,FireFox,,The server presented a certificate with an empty issuer distinguished name,,END
+kick,verb,FireFox,Remove a user from an online space,You have been kicked by Sam,,END
+left-to-right,adjective,FireFox,,Switches input area direction to Left-to-Right,,END
+loop,noun,FireFox,,Record the next frame in the animation loop,,END
+loop,verb,FireFox,,Animated images should loop,,END
+motif,noun,FireFox,,Your version of Firefox doesn't support styling the entire application with a motif,,END
+multi-process mode,noun,FireFox,,Design Mode is available but it requires multi-process mode which is currently disabled,,END
+nursery,noun,FireFox,,There were too many properties on tenured objects whose value was an object in the nursery,,END
+open source,adjective,FireFox,,These terms are not intended to limit any rights granted under open source licenses,open-source,END
+output,noun,FireFox,,security library output length error,,END
+output,verb,FireFox,,Element has a cross-origin resource the node will output silence,,END
+override,verb,FireFox,,Each view can override this default if necessary,,END
+overwrite,verb,FireFox,,Submitting your changes will overwrite the changes made on the server,,END
+parameter,noun,FireFox,,If the search parameter is used then the table displays the entries,,END
+participate,verb,FireFox,,ChatZilla would like you to participate in the Customer Experience,,END
+popup,noun,FireFox,,When enabled popups are shown for this view,,END
+prefetch,verb,FireFox,,Prefetch web pages when idle so that links in web pages designed for prefetching can load more quickly,,END
+profiler,noun,FireFox,,For this command to work you need to open the profiler first,,END
+regression,noun,FireFox,,Feel free to ask questions and talk about features regressions or crashes,,END
+release,noun,FireFox,,The Mozilla project was created in  with the release of the Netscape browser suite,,END
+remix,verb,Mozilla.org,,Learn how to remix content to create something new,,END
+report,verb,FireFox,,Special thanks to all of you who help report abuses of Mozilla marks,,END
+report,noun,FireFox,,Send a crash report for the tab you are viewing,,END
+representative,noun,FireFox,,Empower volunteers to become official representatives of Mozilla,,END
+search suggestion,noun,FireFox,,Search suggestions will not be shown in location bar results,,END
+sensitive,adjective,FireFox,,This contains sensitive information which shouldn't be forwarded or published without permission,,END
+sidebar,noun,FireFox,,Open the Search tab in the sidebar when a search is invoked,,END
+signer,noun,FireFox,,The signer's certificate could not be found,,END
+subdirectory,noun,FireFox,,Choose or enter the name of the remote subdirectory for this page,,END
+subfolder,noun,FireFox,,Delete all messages and subfolders in the Junk folder,,END
+toolbox,noun,FireFox,,If the tab or the toolbox is closed then this setting will be forgotten,,END
+unencrypted,adjective,FireFox,,Your email and authentication are sent unencrypted so your password and your message could easily be read by other people,,END
+unresponsive,adjective,FireFox,,Listing them all will probably take a long time and may lead to ChatZilla becoming unresponsive,,END
+unsafe,adjective,FireFox,,Disabling the Safe Browsing feature is not recommended as it may result in you going to unsafe sites,,END
+user-generated,adjective,FireFox,,Command was denied because it was not called from inside a short running user-generated event handler,,END
+validity,noun,FireFox,,You should not trust the validity of this message until you verify its contents with the sender,,END

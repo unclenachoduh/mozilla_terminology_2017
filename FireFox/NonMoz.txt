@@ -1,0 +1,71 @@
+FireFox Web/tech terms
+
+absolute path,noun,FireFox,,,END
+absolute positioning,noun,FireFox,,,END
+absolute URL,noun,FireFox,,,END
+anchor,noun,FireFox,,,END
+hardware acceleration,noun,FireFox,,,END
+additive-symbols,noun,FireFox,,,END
+carriage return,noun,FireFox,,,END
+embed,verb,FireFox,,,END
+inline,noun,FireFox,,,END
+
+Mozilla.org legal/tech terms
+
+affirmative consent,noun,Mozilla.org,,,END
+anti-counterfeiting trade agreement,proper noun,Mozilla.org,,,END
+anti-harassment/discrimination policy,proper noun,Mozilla.org,,,END
+attribution,noun,Mozilla.org,,,END
+direct-to-bill,adjective,Mozilla.org,,,END
+electorate,noun,Mozilla.org,,,END
+full-disk encryption,noun,Mozilla.org,,,END
+graphic representation,noun,Mozilla.org,,,END
+licensing trademarks,noun,Mozilla.org,,,END
+patent,noun,Mozilla.org,,,END
+patent troll,noun,Mozilla.org,,,END
+policy wonk,noun,Mozilla.org,,,END
+proprietary platforms,noun,Mozilla.org,,,END
+sexual advance,noun,Mozilla.org,,,END
+socioeconomic status,noun,Mozilla.org,,,END
+subsidiary,noun,Mozilla.org,,,END
+sypware,noun,Mozilla.org,,,END
+
+BRANDS
+
+Mozilla.org,,,END
+
+innovation accelerator,proper noun,Mozilla.org,,,END
+user acquisition,proper noun,Mozilla.org,,,END
+A-frame,proper noun,Mozilla.org,,,END
+accelerated innovation,proper noun,Mozilla.org,,,END
+acceptable use,proper noun,Mozilla.org,,,END
+access now,proper noun,Mozilla.org,,,END
+acta,proper noun,Mozilla.org,,,END
+acxiom,proper noun,Mozilla.org,,,END
+advanced panel,proper noun,Mozilla.org,,,END
+aurora,proper noun,Mozilla.org,,,END
+beta,proper noun,Mozilla.org,,,END
+bugzilla,proper noun,Mozilla.org,,,END
+coral project,proper noun,Mozilla.org,,,END
+Developer Tools,proper noun,Mozilla.org,,,END
+Firefox Developer Edition,proper noun,Mozilla.org,,,END
+Firefox esr,proper noun,Mozilla.org,,,END
+Internet health,proper noun,Mozilla.org,,,END
+kidzilla,proper noun,Mozilla.org,,,END
+lightbeam,proper noun,Mozilla.org,,,END
+mozcafe,proper noun,Mozilla.org,,,END
+mozcamp,proper noun,Mozilla.org,,,END
+mozfest,proper noun,Mozilla.org,,,END
+Mozilla Developer Network,proper noun,Mozilla.org,,,END
+mozilla festival,proper noun,Mozilla.org,,,END
+Open Web fellows,proper noun,Mozilla.org,,,END
+Page inspector,proper noun,Mozilla.org,,,END
+responsive design view,proper noun,Mozilla.org,,,END
+rust,proper noun,Mozilla.org,,,END
+toolkit,proper noun,Mozilla.org,,,END
+devtools,proper noun,Mozilla.org,,,END
+
+FireFox
+aggressive notify,noun,FireFox,,It will try to get your attention if Aggressive notify is turned on,END
+composition toolbar,noun,FireFox,,,,END
+

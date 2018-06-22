@@ -1,0 +1,91 @@
+Method:
+
+1. Extraction from Mozilla.org TMX (stripping XML)
+2. Parse by ' ' to get list of words
+3. Removing duplicates (including suffixes [plurals, adverbs, verbs, nominalizations] and punctuation)
+	- Should leave only singular nouns, basic verbs, etc
+	- Okay accuracy and precision
+4. Removing common words (1000 most common English words)
+	- Pronouns, prepositions, conjuncitons, high-freq nouns
+5. Removing matches to Microsoft's termbase from MS Language Portal
+
+6. In-context human review
+
+Possible Issues:
+
+1. Inconsistencies
+- addon/add-on
+- cyber bullying
+- cyber security
+- cyber violence
+- cyberattack
+- cyberbullying
+- cybersecurity
+- hack-a-thon
+- hackathon
+- hackfests
+
+FF
+auto-accept
+auto-away
+auto-connect
+auto-creat
+auto-detect
+auto-detection
+auto-join
+auto-op
+auto-perform
+auto-rejoin
+auto-reply
+auto-sync
+autoclose
+autocomplete
+autocompletion
+autoconfig
+autodetect
+autogaincontrol
+automation
+autopilot
+autorefresh
+autoscrolling
+content-type
+contenttype
+end-user	(moving forward with an end-user focus)
+end user	(a product designed with the end user in mind)
+fixed-width
+fixed width
+full-screen
+fullscreen
+open-source	(An open-source browser)
+open source	(A browser from and open source)
+signon
+sign-on
+stand-alone
+standalone
+
+2. Ambiguity
+- gear
+- abuse
+- enable
+
+3. Compound Terms
+- behavioral advertising
+- browsing habits
+- digital footprint
+- full-disk encryption
+- location-aware browsing	
+
+4. Non-Mozilla Technical Terminology and Low Occurrence 
+- attribution
+- electorate
+- full-disk encryption
+- intellectual property
+- grassroots
+- aggregate
+- emoji names (wink face, embarassed face, kiss face, etc.)
+
+5. Term Management
+- Plurals, nominalizations, ambiguity, Acronyms, Places, shortcuts, about:x
+- digital citizen (NN), digital citizens (NNS), digital citizenship (NN)
+- crowd-sourced (VBN)(JJ), crowd-source(VB), crowd-sourcing(VBG)(NN)
+- do we make our termbase smart regarding pos?

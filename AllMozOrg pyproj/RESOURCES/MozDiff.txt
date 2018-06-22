@@ -1,0 +1,293 @@
+"hero" flag
+search
+About
+Android tablet app
+ClearType
+Marketplace
+Namaste
+OK
+Share-Alike License
+TCP socket
+URL
+Unicode
+abort
+absent 
+abuse
+adjust
+admin tools
+app developer
+app
+application picker
+application preference
+application
+approve
+async
+auto-escalation
+backspace
+banned
+binary 
+block
+block 
+blocklisted app
+body
+bold
+bookmark
+box
+browse
+browsing
+browsing
+cache 
+cache
+cached
+callbacks
+canned response
+chargeback
+check
+checking
+clear 
+cleartype parameter
+compatibility 
+composer
+compromise
+configure 
+connect 
+connecting
+connection 
+context menu 
+continue
+convert
+copy
+correct
+coverage
+curation tool
+curator
+custom
+custom
+customization 
+debugging
+defaults
+depersonalisation
+deploy
+deploying
+describe 
+description
+desktop add-ons
+destination folder 
+details 
+devtools
+disconnect 
+distribute 
+done
+download 
+downloading 
+downloads
+drafts
+e-mail
+mail
+enable
+encrypt 
+end-user 
+erasure
+error 
+error connecting
+error console 
+escalated
+establish
+event
+events
+exception 
+exit
+expand
+experimental
+explore 
+fail
+failed 
+failing
+fetching 
+field
+finder 
+flagged note 
+flexibility 
+focus chat 
+forgery 
+format 
+forwarding
+free 
+free up space
+gallery
+gamepad
+graphics
+grid
+hang up
+height
+hellip
+hexadecimal
+hide 
+high abuse reports
+host 
+host 
+host 
+identification 
+identifier
+identify 
+impersonate 
+in-app payments
+incorrect
+inform 
+initialise
+input method
+installer 
+installs
+italic
+last 
+latest 
+launch 
+licensing information
+limit
+link
+unlink
+location aware browsing 
+lock
+locked
+log out
+login
+log in
+lookup tools
+low 
+maintenance
+manage 
+match 
+match 
+merge
+modify
+monospace 
+mute 
+name
+offline 
+open
+open source license 
+operator dashboard
+operator shelf
+option 
+override 
+parental control
+persona 
+personalisation
+pin 
+pipe
+pop-up 
+post 
+postpaid
+premium app
+prepaid
+preview 
+preview 
+preview 
+previous
+next diff
+print preview 
+priority
+private policy 
+privilege
+privileged
+process
+promo collection
+quit 
+range
+raster image
+rate
+re-reviewed
+re-verification
+reboot 
+recommendation
+redo
+reject
+relevance 
+reload
+remote web console 
+remote
+remove
+rename
+report 
+report 
+research
+resend
+resume 
+retrieve
+retry
+revenue
+review 
+review 
+review queue
+reviewer tools
+revoke
+risk
+run
+run out of 
+save image
+search 
+search 
+selection
+self-reviews
+set up
+sheet
+show
+sidebar
+site
+size
+skip
+snooze 
+social toolbar button 
+software
+sort code
+source software 
+stack overflow
+stored
+study
+study 
+study 
+submission failed
+subscribe
+subscription
+suggestion
+synced tabs 
+tagged
+tamper 
+technical
+telephone
+tethering on
+off
+tethering settings
+time out
+timed out
+timer
+toggle
+top-up
+touch 
+transfer 
+troubleshooting 
+unable 
+unbookmark
+uncompressing
+unicode 
+unlocking key
+unmerge
+unmute 
+unselect
+deselect
+up to date
+update 
+update 
+utility
+validation report
+wall post
+web 
+web speech recognition
+web speech synthesis
+webM
+website
+width
+withhold
+withheld
+wrap
+unwrap 

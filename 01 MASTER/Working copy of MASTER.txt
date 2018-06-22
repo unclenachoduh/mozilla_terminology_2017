@@ -1,0 +1,210 @@
+abnormality	Noun	FireFox		Mozilla detected a serious abnormality in its internal data	END
+abort	Verb	FireFox		Do you want to abort this download	END
+abuse	Noun	Mozilla.org		Special thanks to all of you who help report abuses of Mozilla marks	END
+abuse	Verb	Mozilla.org		In addition any participants who abuse the reporting process will be considered to be in violation of these guidelines	END
+accessible	Adjective	Mozilla.org		The Web should remain open and accessible to all	END
+accountability	Noun	Mozilla.org		Transparent community based processes promote participation accountability and trust	END
+accountable	Adjective	Mozilla.org		Governments should be held accountable	END
+activist	Noun	Mozilla.org		We connect support and amplify the work of technologists policy wonks artists and activists committed to helping shape and drive Mozilla’s campaigns	END
+Add-on	Noun	Mozilla.org	an umbrella term that describes different types of code that extend Firefox. Mostly used on AMO. Includes extensions, themes, plug-ins, dictionaries, etc.	A Firefox addon that uses interactive visualizations to show you the first and third party sites	END
+Addon	Noun	Mozilla.org	an umbrella term that describes different types of code that extend Firefox. Mostly used on AMO. Includes extensions, themes, plug-ins, dictionaries, etc.	A Firefox addon that uses interactive visualizations to show you the first and third party sites	END
+adoption	Noun	Mozilla.org		We are committed to driving forward the adoption of HTML as a platform for the mobile industry	END
+advertising networks	Noun	Mozilla.org		Firefox will tell advertising networks and other websites and applications that you want to opt out of tracking	END
+advocacy	Noun	Mozilla.org		The foundation that supports and drives our advocacy work by bringing together awesome people	END
+aggregate	Noun	FireFox		We encourage users to visualize the state of tracking as an aggregate	END
+alternate text	Noun	FireFox		If the image is relevant to the content of the document you must supply alternate text	END
+appearance	Noun	FireFox		Modify the appearance and importance of tags using the settings below	END
+artist	Noun	Mozilla.org		Developers designers and artists are able to easily create accessible VR experiences	END
+attacker	Noun	FireFox		An attacker could easily reveal information which you thought to be safe	END
+attendee	Noun	FireFox		Additional changes will notify all attendees accordingly	END
+authenticate	Verb	FireFox		The endpoint you are connecting to needs more information to authenticate this connection	END
+behavioral advertising	Noun	Mozilla.org		Firefox will tell advertising networks and other websites and applications that you want to optout of tracking for purposes like behavioral advertising	END
+black box	Verb	FireFox		The following sources were black boxed	END
+blackbox	Verb	FireFox		The following sources were black boxed	END
+bookmark	Noun	FireFox		Get results from your bookmarks and history when you search	END
+bookmark	Verb	FireFox		Bookmark this page	END
+boolean	Noun	FireFox		Toggles the boolean preference specified by input	END
+boot	Verb	FireFox	Remove a user from an online space	You have been booted from the chatroom	END
+breakpoint	Noun	FireFox		Resumes the main thread and continues execution following a breakpoint until the next breakpoint or the termination of the script	END
+Browser extension	Noun		cross-browser extensions implemented using the Browser Extensions standard.		END
+browsing habits	Noun	Mozilla.org		Collect information about our browsing habits	END
+buddy list	Noun	FireFox		Sam added you to her buddy list do you want to allow her to see you	END
+bug	Noun	Mozilla.org		Firefox engineers livehack and crush bugs	END
+builders	Noun	Mozilla.org		At Mozilla we’re a global community of technologists thinkers and builders	END
+certificate authority	Noun	FireFox		The certificate used to sign the message was issued by a certificate authority whose own certificate is not yet valid	END
+channel operator	Noun	FireFox		You must be a channel operator to do this	END
+channel	Noun	FireFox		Remove channel voice status from someone preventing them from speaking if the channel is moderated	END
+checkbox	Noun	FireFox		Uncheck this checkbox to store mail for this account	END
+clipboard	Noun	FireFox		Copy text to clipboard	END
+clockwise	Adverb	FireFox		Rotate Clockwise	END
+command	Noun	FireFox		Send a command to Chatbot	END
+compact view	Noun	FireFox		Favorite Folders Compact View	END
+compact	Adjective	FireFox		A compact theme with a dark color scheme	END
+compact	Verb	FireFox		Do you wish to compact all local and offline folders	END
+compositor	Noun	FireFox		Animation cannot be run on the compositor	END
+confidentiality	Noun	Mozilla.org		Respect people’s right to privacy and confidentiality	END
+constraint	Noun	FireFox		Certificate path length constraint is invalid	END
+context	Noun	FireFox		The following protocol isn't associated with any program or is not allowed in this context	END
+contribute	Verb	FireFox		Contribute to the development of this add-on	END
+copyright reform	Noun	Mozilla.org		Advocating for net neutrality copyright reform and other issues	END
+corrupt	Adjective	FireFox		The add-on downloaded from this site could not be installed because it appears to be corrupt	END
+corrupt	Verb	FireFox		The response from the OCSP server was corrupted or improperly formed	END
+corrupted	Adjective	FireFox		Invalid or corrupted PDF file	END
+counterclockwise	Adverb	FireFox		Rotate Counterclockwise	END
+crash	Noun	Mozilla.org		Install Nightly and help us improve Firefox quality hunt crashes and regressions	END
+creators	Noun	Mozilla.org		Calling the creators of today’s Internet	END
+crowdsourced	Adjective	Mozilla.org		Mozilla Stumbler is an opensource wireless network scanner which collects GPS cellular and wireless network metadata for our crowdsourced location database	END
+curriculum	Noun	Mozilla.org		Creating open curricula that empowers people	END
+customizable	Adjective	Mozilla.org		Firefox Marketplace will offer developers’ discovery distribution and monetization opportunities and will also be customizable by partners	END
+cyber bullying	Noun	Mozilla.org		iscouraging people from getting online cyberbullying and cyber violence threaten not just individuals but the Internet itself	END
+cyberbullying	Noun	Mozilla.org		iscouraging people from getting online cyberbullying and cyber violence threaten not just individuals but the Internet itself	END
+cyber security	Noun	Mozilla.org		cybersecurity is actually really simple it just means protecting yourself and your information online	END
+cybersecurity	Noun	Mozilla.org		cybersecurity is actually really simple it just means protecting yourself and your information online	END
+cyber violence	Noun	Mozilla.org		iscouraging people from getting online cyberbullying and cyber violence threaten not just individuals but the Internet itself	END
+cyberattack	Noun	Mozilla.org		At this point it feels like we’ve all been victims of a cyberattack	END
+debug	Noun	FireFox		Turning this on will allow you to debug add-ons	END
+decentralization	Noun	Mozilla.org		Decentralization means Net Neutrality	END
+deceptive site	Noun	FireFox		This web page has been reported as a deceptive site and has been blocked	END
+designer	Noun	Mozilla.org		Designers and artists are able to easily create accessible VR experiences	END
+developer	Noun	Mozilla.org		Developers are able to easily create accessible VR experiences	END
+digital citizen	Noun	Mozilla.org		Together these informed digital citizens move beyond just consuming content	END
+digital citizenship	Noun	Mozilla.org		How you can cultivate your digital citizenship	END
+digital footprint	Noun	Mozilla.org		But our digital footprints reveal more about us than where we’ve been	END
+digital lockbox	Noun	Mozilla.org		If you had a digital lockbox that no one could see but you what would you put in it	END
+disallow	Verb	FireFox		You disallowed countering when sending out the invitation	END
+dispatch	Verb	FireFox		If you are dispatching this command from a script you may override this behaviour	END
+distrust	Verb	FireFox		If you delete or distrust a certificate authority CA certificate this application will no longer trust any certificates	END
+disturb	Verb	FireFox	Aggressively notify	Do not disturb me until I restart	END
+doxxing	Noun	Mozilla.org		This also includes posting or threatening to post other people’s personally identifying information doxxing online	END
+early adopter	Noun	Mozilla.org		Nightly is updated daily It is most appropriate for core Mozilla contributors and early adopters not regular users	END
+eavesdropping	Noun	FireFox		You have requested a page that is only partially encrypted and does not prevent eavesdropping	END
+emoji	Noun	Mozilla.org		emojis like kiss	END
+enable	Verb	FireFox	Activate a feature	You cannot enable this filter	END
+encrypt	Verb	FireFox		Encrypt This Message	END
+end user	Noun	FireFox		Request on the main thread is deprecated because of its detrimental effects to the end user	END
+end-user	Noun	FireFox		Request on the main thread is deprecated because of its detrimental effects to the end user	END
+engine	Noun	Mozilla.org		The layout engine that drives Firefox	END
+evangelist	Noun	Mozilla.org		A passionate open source evangelist	END
+executable file	Noun	FireFox		Executable files may contain viruses or other malicious code	END
+external	Adjective	FireFox		If enabled  will automatically consider messages marked by this external classifier as junk	END
+Extension	Noun	Firefox	pieces of code that extend the capabilities of a browser. In Firefox, extensions are a type of add-on.	This page is loaded from an extension	END
+fake news	Noun	Mozilla.org		Learn to spot fake news	END
+feed aggregator	Noun	FireFox		Would you like to make it your default feed aggregator	END
+forum	Noun	Mozilla.org		Special thanks to all of you who help report abuses of Mozilla marks participate in governance forums	END
+gaming	Noun	Mozilla.org		Firefox is leading the charge in online gaming	END
+garbage collection	Noun	FireFox		A full non-incremental garbage collection was triggered because there was a faster rate of allocations	END
+gatekeepers	Noun	Mozilla.org		We will take on new threats to the Web's future from locked down proprietary platforms to wouldbe censors and gatekeepers	END
+gear	Noun	Mozilla.org	Items given to participants by Mozilla such as t-shirts and stickers	Official Mozilla gear is here	END
+gif	Noun	Mozilla.org		Create your own Web content like videos blog posts GIF	END
+global community	Noun	Mozilla.org		The real power behind Mozilla is a global community of of volunteers	END
+glossary	Noun	Mozilla.org		Visit our cybersecurity glossary on Shape of the Web	END
+Government Surveillance	Noun	Mozilla.org		Mozilla’s policy team proposes that government surveillance must follow three fundamental principles	END
+grassroots	Adjective	Mozilla.org		Working at the grassroots and policy levels we teach web literacy	END
+guidelines	Noun	Mozilla.org		These guidelines aim to support a community where all people should feel safe	END
+hack	Verb	FireFox		Hack the Developer Tools	END
+half-operator status	Noun	FireFox		Requires operator or half-operator status	END
+homepage	Noun	FireFox		Please visit the ChatZilla homepage for more information	END
+identity	Noun	Mozilla.org		Which means your identity may be at risk of theft without you even knowing it	END
+idle	Adjective	FireFox		The worker was idle for a relatively long time	END
+illegal	Adjective	FireFox	Not compatible	illegal characters in public id	END
+import	Verb	FireFox		The feed subscriptions import from file S	END
+independent browser	Noun	Mozilla.org		Choose the independent browser	END
+innovations	Noun	Mozilla.org	Unique features developed for FireFox	Explore some of our latest innovations	END
+innovator	Noun	Mozilla.org		All of which creates obstacles and uncertainty for innovators and leaves the door open for patent trolls	END
+insecure	Adjective	FireFox		This is an insecure server	END
+interactive	Adjective	Mozilla.org		Learn how to maximize the interactive potential of the Web	END
+interoperable	Adjective	Mozilla.org		The Web should remain open and interoperable	END
+issuer	Noun	FireFox		The server presented a certificate with an empty issuer distinguished name	END
+kick	Verb	FireFox	Remove a user from an online space	You have been kicked by Sam	END
+left-to-right	Adjective	FireFox		Switches input area direction to Left-to-Right	END
+Legacy extension	Noun	Firefox	a Firefox extension built using legacy APIs or the Add-on SDK. 	Show legacy extensions	END
+location-aware browsing	Noun	Mozilla.org		Websites that use location-aware browsing will ask where you are in order to bring you more relevant information	END
+loop	Noun	FireFox		Record the next frame in the animation loop	END
+loop	Verb	FireFox		Animated images should loop	END
+mainstream	Adjective	Mozilla.org		Product exploration initiatives like our ‘connected devices’ program aim to bring more mainstream products	END
+mass surveillance	Noun	Mozilla.org		Calling on lawmakers all over the globe to rein in mass surveillance	END
+meme	Noun	Mozilla.org		Keep making memes posting links and getting creative on the Web	END
+milestone	Noun	Mozilla.org		Take a closer look at who we are including some of our biggest achievements and milestones	END
+mobilize	Verb	Mozilla.org		This approach enables Mozilla to simultaneously build our capacity to mobilize millions of people quickly	END
+motif	Noun	FireFox		Your version of Firefox doesn't support styling the entire application with a motif	END
+multi-process mode	Noun	FireFox		Design Mode is available but it requires multi-process mode which is currently disabled	END
+native	Adjective	Mozilla.org	Local software and applications	They can’t access the device’s underlying capabilities the way that native apps can	END
+net neutrality	Noun	Mozilla.org		A decentralized internet owned by all of us is where net neutrality interoperability competition and local contribution thrive	END
+nonprofit	Noun	Mozilla.org		Mozilla is proudly nonprofit and answers to no one but you	END
+non-profitnonprofit	Noun	Mozilla.org		Mozilla is proudly nonprofit and answers to no one but you	END
+nursery	Noun	FireFox		There were too many properties on tenured objects whose value was an object in the nursery	END
+open source	Adjective	FireFox		These terms are not intended to limit any rights granted under open source licenses	END
+open-source	Adjective	FireFox		These terms are not intended to limit any rights granted under open source licenses	END
+open-source	Adjective	Mozilla.org		Build and enable opensource technologies and communities	END
+openness	Noun	Mozilla.org		Building with open standards and open source in our own products and supporting openness at every opportunity	END
+optimize	Verb	Mozilla.org		We optimize Firefox for the way you use the Web	END
+output	Noun	FireFox		security library output length error	END
+output	Verb	FireFox		Element has a cross-origin resource the node will output silence	END
+override	Verb	FireFox		Each view can override this default if necessary	END
+overwrite	Verb	FireFox		Submitting your changes will overwrite the changes made on the server	END
+parameter	Noun	FireFox		If the search parameter is used then the table displays the entries	END
+participate	Verb	FireFox		ChatZilla would like you to participate in the Customer Experience	END
+participation	Noun	Mozilla.org		Mozilla achieves success by helping more people make choices about what software they want to use what level of participation they would like to have online	END
+pioneered	Verb	Mozilla.org		Mozilla is proud of the many technologies we have pioneered and submitted	END
+pledge	Noun	Mozilla.org		The Mozilla community has pledged to protect and promote a platform providing opportunity	END
+popup	Noun	FireFox		When enabled popups are shown for this view	END
+pre-alpha	Adjective	Mozilla.org		Are you a power-user comfortable installing pre-alpha software	END
+pre-installed	Adjective	Mozilla.org		This powerful extension that comes pre-installed with Firefox Developer Edition	END
+pre-release	Adjective	Mozilla.org		Experience cutting-edge features in a pre-release browser	END
+preference	Noun	Mozilla.org	Custom settings within a software application	You can manage your profile and preferences	END
+prefetch	Verb	FireFox		Prefetch web pages when idle so that links in web pages designed for prefetching can load more quickly	END
+private browsing	Noun	Mozilla.org		Private browsing in Firefox limits saving data about which sites and pages you have visited online	END
+proactive	Adjective	Mozilla.org		They can be proactive about protecting users’ information	END
+profiler	Noun	FireFox		For this command to work you need to open the profiler first	END
+programmer	Noun	Mozilla.org		Mozilla programmers recommend these easy encryption tools	END
+regression	Noun	FireFox		Feel free to ask questions and talk about features regressions or crashes	END
+release	Noun	FireFox		The Mozilla project was created in  with the release of the Netscape browser suite	END
+remix	Verb	Mozilla.org		Learn how to remix content to create something new	END
+report	Noun	FireFox		Send a crash report for the tab you are viewing	END
+report	Verb	FireFox		Special thanks to all of you who help report abuses of Mozilla marks	END
+representative	Noun	FireFox		Empower volunteers to become official representatives of Mozilla	END
+safeguard	Noun	Mozilla.org		When surveillance is too broad or lacks key safeguards	END
+seamless	Adjective	Mozilla.org		Make sure you understand the tradeoffs of that seamless online experience	END
+search suggestion	Noun	FireFox		Search suggestions will not be shown in location bar results	END
+sensitive	Adjective	FireFox		This contains sensitive information which shouldn't be forwarded or published without permission	END
+sidebar	Noun	FireFox		Open the Search tab in the sidebar when a search is invoked	END
+signer	Noun	FireFox		The signer's certificate could not be found	END
+snoop	Verb	Mozilla.org		Anyone who chooses to snoop can see some or all of your activity	END
+software	Noun	Mozilla.org		No software provides perfect protection from spying	END
+spam	Noun	Mozilla.org		Thunderbird’s popular junk mail tools have been updated to stay ahead of spam	END
+spam	Verb	Mozilla.org		Like phishing eg a fake bank email asking for your personal information spamming hacked accounts	END
+sprint	Noun	Mozilla.org		MozCamps are regional events that bring together core paid and volunteer Mozilla staff members from all areas of the project for two full days of presentations discussions brainstorms work sprints hackathons and of course a little bit of fun	END
+stakeholder	Noun	Mozilla.org		As with most issues of importance we believe education listening and dialogue amongst stakeholders are critical to finding solutions	END
+stakeholder	Noun	Mozilla.org		Listening and dialogue amongst stakeholders are critical to finding solutions	END
+student ambassador	Noun	Mozilla.org		Join us as a student ambassador	END
+subdirectory	Noun	FireFox		Choose or enter the name of the remote subdirectory for this page	END
+subfolder	Noun	FireFox		Delete all messages and subfolders in the Junk folder	END
+surf	Verb	Mozilla.org		So avoid sensitive activities when surfing in public	END
+surveillance	Noun	Mozilla.org		The difference now is that they’ve moved beyond binoculars bugs and bad guys surveillance has gone digital	END
+tabbed	Adjective	Mozilla.org		If you like Firefox’s tabbed browsing you’re going to love tabbed email	END
+tech	Noun	Mozilla.org		Get the Mozilla newsletter for our latest tech news and more	END
+technologist	Noun	Mozilla.org		We connect support and amplify the work of technologists	END
+thinkers	Noun	Mozilla.org		Mozillians are a diverse group of thinkers builders educators and hackers	END
+third party	Adjective	Mozilla.org		Mozilla sites are no exception Like most other Web sites we also use third party tools	END
+third-party	Adjective	Mozilla.org		Mozilla sites are no exception Like most other Web sites we also use third party tools	END
+tinker	Verb	Mozilla.org		Mozilla‘s vision of the Internet is a place where anyone can access information a place where everyone can hack and tinker	END
+toolbox	Noun	FireFox		If the tab or the toolbox is closed then this setting will be forgotten	END
+trackers	Noun	Mozilla.org		Firefox protects your online privacy and blocks trackers	END
+trojan horse	Noun	Mozilla.org		Antimalware features protect you from trojan horses and spyware	END
+troubleshoot	Verb	Mozilla.org		Help easily identify and troubleshoot performance bottlenecks	END
+unencrypted	Adjective	FireFox		Your email and authentication are sent unencrypted so your password and your message could easily be read by other people	END
+universal access	Noun	Mozilla.org		Digital inclusion means promoting diversity practicing respect and supporting universal access online	END
+unleash	Verb	Mozilla.org		We launched Firefox OS to unleash the full power of the Web	END
+unresponsive	Adjective	FireFox		Listing them all will probably take a long time and may lead to ChatZilla becoming unresponsive	END
+unsafe	Adjective	FireFox		Disabling the Safe Browsing feature is not recommended as it may result in you going to unsafe sites	END
+User Control	Noun	Mozilla.org		Firefox OS is the first truly open operating system for mobile devices delivering the same security privacy customization and user control	END
+user-generated	Adjective	FireFox		Command was denied because it was not called from inside a short running user-generated event handler	END
+validity	Noun	FireFox		You should not trust the validity of this message until you verify its contents with the sender	END
+viable	Adjective	Mozilla.org		We've built the technologies and APIs to make the Web a rich and viable option	END
+vulnerable	Adjective	Mozilla.org			END
+WebExtension	Noun	Firefox	a deprecated term that describes a Firefox extension built with WebExtensions APIs. Starting in Firefox 57, only extensions built with WebExtensions APIs will be supported. Therefore, we will start referring to them simply as "extensions". "WebExtensions" will remain in use in the context of describing the underlying technology of extensions.	You can use web-ext to load temporary WebExtensions from the command line	END
+Web literacy	Noun	Mozilla.org		Participate in the web by testing your web literacy skills	END
+web-literate	Adjective	Mozilla.org		Mozilla Webmaker works to create a more Web-literate plane	END
+web literate	Adjective	Mozilla.org		Mozilla Webmaker works to create a more Web-literate plane	END
+webmakers	Noun	Mozilla.org		Mozilla is mobilized to ensure the protection of the Web and to empower tomorrow’s webmakers	END
+webmaking	Noun	Mozilla.org		And if you ever want to talk about Webmaking and teaching I’m always available	END

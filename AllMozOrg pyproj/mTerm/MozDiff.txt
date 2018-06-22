@@ -1,0 +1,280 @@
+"hero" flag
+(the) search
+About…
+Android tablet app
+ClearType
+Marketplace
+Namaste!
+OK
+Share-Alike License
+TCP socket
+URL
+Unicode
+abort
+absent 
+abuse
+adjust
+admin tools
+app developer
+app(s)
+application picker
+application preference
+application/app
+approve
+async
+auto-escalation
+backspace
+banned
+binary 
+block (n)
+block (v) 
+blocklisted app
+body
+bold
+bookmark
+box
+browse
+browsing
+browsing…
+cache 
+cache/cached
+callbacks
+canned response
+chargeback
+check
+checking…
+clear 
+cleartype parameter
+compatibility 
+composer
+compromise
+configure 
+connect (to)
+connecting…
+connection 
+context menu 
+continue
+convert
+copy
+correct
+coverage
+curation tool
+curator
+custom
+custom(ed)
+customization  
+debugging
+defaults
+depersonalisation
+deploy / deploying
+describe 
+description
+desktop add-ons
+destination folder 
+details 
+devtools
+disconnect (from)
+distribute 
+done
+download 
+downloading (process)
+downloads
+drafts
+e-mail / mail
+enable
+encrypt 
+end-user 
+erasure
+error 
+error connecting
+error console 
+escalated
+establish
+event / events
+exception 
+exit
+expand
+experimental
+explore 
+fail
+failed (to connect)
+failing
+fetching (data)
+field
+finder 
+flagged note (e-mail)
+flexibility 
+focus chat 
+forgery 
+format (v)
+forwarding
+free (space)
+free up space
+gallery
+gamepad
+graphics
+grid
+hang up
+height
+hellip
+hexadecimal
+hide 
+high abuse reports
+host 
+host  (n)
+host  (v)
+identification 
+identifier
+identify 
+impersonate 
+in-app payments
+incorrect
+inform 
+initialise
+input method
+installer 
+installs
+italic
+last (updated)
+latest 
+launch (v)
+licensing information
+limit
+link / unlink
+location aware browsing 
+lock
+locked
+log out
+login / log in
+lookup tools
+low (battery)
+maintenance
+manage (v)
+match (n)
+match (v)
+merge
+modify
+monospace 
+mute 
+name
+offline 
+open
+open source license 
+operator dashboard
+operator shelf
+option 
+override 
+parental control
+persona 
+personalisation
+pin 
+pipe
+pop-up 
+post (v)
+postpaid
+premium app
+prepaid
+preview 
+preview (n)
+preview (v)
+previous / next diff
+print preview 
+priority
+private policy 
+privilege / privileged
+process
+promo collection
+quit 
+range
+raster image
+rate
+re-reviewed
+re-verification
+reboot 
+recommendation
+redo
+reject
+relevance 
+reload
+remote web console 
+remote=
+remove
+rename
+report 
+report (n)
+research
+resend
+resume  
+retrieve
+retry
+revenue
+review  (review a license) 
+review (general) 
+review queue
+reviewer tools
+revoke
+risk
+run
+run out of (memory)
+save image
+search (for the file)
+search (the file)
+selection
+self-reviews
+set up
+sheet
+show
+sidebar
+site
+size
+skip
+snooze 
+social toolbar button 
+software
+sort code
+source software 
+stack overflow
+stored
+study
+study (n)
+study (v)
+submission failed
+subscribe / subscription
+suggestion
+synced tabs 
+tagged
+tamper 
+technical
+telephone
+tethering on/off
+tethering settings
+time out
+timed out
+timer
+toggle
+top-up
+touch ("touch screen")
+transfer (file)
+troubleshooting 
+unable (to connect)
+unbookmark
+uncompressing
+unicode 
+unlocking key
+unmerge
+unmute 
+unselect / deselect
+up to date
+update (n)
+update (v)
+utility
+validation report
+wall post
+web 
+web speech recognition
+web speech synthesis
+webM
+website
+width
+withhold / withheld
+wrap / unwrap (text)

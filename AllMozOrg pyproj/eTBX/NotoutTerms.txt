@@ -1,0 +1,668 @@
+12+			DUPE
+16+			DUPE
+</titleStmt><sourceDesc><p>Microsoft Terminology Collection</p></sourceDesc></fileDesc></martifHeader><text><body>			No Match
+<?xml version="1.0" encoding="UTF-8"?><martif type="TBX" xml:lang="en-US"><martifHeader><fileDesc><titleStmt><title>Microsoft Terminology Collection Export</title>			No Match
+a			DUPE
+about			DUPE
+about			DUPE
+access			DUPE
+account			DUPE
+account			DUPE
+account			DUPE
+achievements			DUPE
+activity			DUPE
+activity			DUPE
+add-on			DUPE
+add-on			DUPE
+address book			DUPE
+admin			DUPE
+administrator			DUPE
+administrator			DUPE
+administrator			DUPE
+administrator account			DUPE
+agent			DUPE
+agent			DUPE
+album			DUPE
+alert			DUPE
+allocate			DUPE
+allow			DUPE
+allow list			DUPE
+analog			DUPE
+answer			DUPE
+app			DUPE
+appear offline			DUPE
+attach			DUPE
+audio			DUPE
+authentication method			DUPE
+authenticator			DUPE
+authorize			DUPE
+available			DUPE
+away			DUPE
+b			DUPE
+back			DUPE
+back			DUPE
+back button			DUPE
+background			DUPE
+background			DUPE
+background			DUPE
+background			DUPE
+backplane			DUPE
+badge			DUPE
+bandwidth			DUPE
+banner			DUPE
+battery life			DUPE
+battery saver			DUPE
+beacon			DUPE
+billing			DUPE
+billing			DUPE
+billing			DUPE
+bing			DUPE
+bitcoin			DUPE
+block			DUPE
+block			DUPE
+block list			DUPE
+broadband			DUPE
+broadcast			DUPE
+broadcast			DUPE
+business			DUPE
+busy			DUPE
+busy			DUPE
+button			DUPE
+calculator			DUPE
+calendar			DUPE
+calendar			DUPE
+calendar			DUPE
+calendar			DUPE
+calibration			DUPE
+call			DUPE
+call			DUPE
+call			DUPE
+call forwarding			DUPE
+call forwarding			DUPE
+callee			DUPE
+caller			DUPE
+caller id			DUPE
+camera			DUPE
+cancel			DUPE
+caption			DUPE
+case			DUPE
+categories			DUPE
+category			DUPE
+category			DUPE
+ccb			DUPE
+cellular data			DUPE
+cellular data			DUPE
+challenge			DUPE
+channel			DUPE
+charm			DUPE
+chat			DUPE
+chat			DUPE
+checkout			DUPE
+checkpoint			DUPE
+classic			DUPE
+classic view			DUPE
+classics			DUPE
+click			DUPE
+client			DUPE
+client			DUPE
+close			DUPE
+close			DUPE
+cloud			DUPE
+club			DUPE
+cluster			DUPE
+code of conduct			DUPE
+collection			DUPE
+collection			DUPE
+collection			DUPE
+collection			DUPE
+comment			DUPE
+companion			DUPE
+compare			DUPE
+compare			DUPE
+component			DUPE
+conference			DUPE
+conference			DUPE
+configuration set			DUPE
+connect			DUPE
+connect			DUPE
+connect			DUPE
+connect			DUPE
+connect			DUPE
+connection			DUPE
+connection			DUPE
+connection manager			DUPE
+connectivity			DUPE
+connector			DUPE
+contact			DUPE
+contact info			DUPE
+conversation			DUPE
+customer service			DUPE
+dashboard			DUPE
+data collector set			DUPE
+database			DUPE
+dc			DUPE
+deal			DUPE
+default location			DUPE
+default location			DUPE
+demo			DUPE
+desktop			DUPE
+desktop			DUPE
+desktop			DUPE
+desktop program			DUPE
+detach			DUPE
+device			DUPE
+device			DUPE
+device			DUPE
+devices			DUPE
+dial			DUPE
+dial-up networking			DUPE
+dialer			DUPE
+directory			DUPE
+disk			DUPE
+display			DUPE
+display name			DUPE
+display name			DUPE
+dock			DUPE
+dock			DUPE
+domain			DUPE
+domain			DUPE
+domain			DUPE
+domain			DUPE
+domain tree			DUPE
+download			DUPE
+download			DUPE
+download			DUPE
+download			DUPE
+draft			DUPE
+drugs			DUPE
+drugs			DUPE
+dump			DUPE
+duplicate			DUPE
+dword			DUPE
+ease of access			DUPE
+ec			DUPE
+edit			DUPE
+education			DUPE
+edutainment			DUPE
+email			DUPE
+email			DUPE
+email			DUPE
+emoticon			DUPE
+entertainment			DUPE
+entertainment			DUPE
+entertainment			DUPE
+entry			DUPE
+error code			DUPE
+event			DUPE
+everyone			DUPE
+everyone			DUPE
+exchange			DUPE
+expiration date			DUPE
+extension			DUPE
+face			DUPE
+family			DUPE
+family			DUPE
+family			DUPE
+family finder			DUPE
+family safety			DUPE
+family safety			DUPE
+fault			DUPE
+fault			DUPE
+favorite			DUPE
+favorites			DUPE
+favorites			DUPE
+feed			DUPE
+filter			DUPE
+filter			DUPE
+flag			DUPE
+flash			DUPE
+folder			DUPE
+folder			DUPE
+format			DUPE
+forward			DUPE
+frame			DUPE
+frame			DUPE
+friend			DUPE
+friend			DUPE
+friend			DUPE
+friends			DUPE
+friends list			DUPE
+full version			DUPE
+gambling			DUPE
+gambling			DUPE
+games			DUPE
+games			DUPE
+gesture			DUPE
+gift card			DUPE
+global address list			DUPE
+grayscale			DUPE
+group			DUPE
+group			DUPE
+group			DUPE
+guest			DUPE
+guestbook			DUPE
+hate speech			DUPE
+health and fitness			DUPE
+help and options			DUPE
+highlighter			DUPE
+history			DUPE
+history			DUPE
+hold			DUPE
+home			DUPE
+home			DUPE
+home			DUPE
+home			DUPE
+home			DUPE
+home			DUPE
+home network			DUPE
+homegroup			DUPE
+hook			DUPE
+host			DUPE
+hotmail			DUPE
+http			DUPE
+hub			DUPE
+hub			DUPE
+im			DUPE
+im			DUPE
+imaging			DUPE
+indent			DUPE
+index			DUPE
+index			DUPE
+infotip			DUPE
+ink			DUPE
+ink			DUPE
+install			DUPE
+install			DUPE
+instant messaging			DUPE
+intelligent services			DUPE
+invite			DUPE
+iso image			DUPE
+issuer			DUPE
+journal			DUPE
+journal			DUPE
+jump			DUPE
+jump list			DUPE
+jump list			DUPE
+junk e-mail			DUPE
+junk e-mail folder			DUPE
+kb			DUPE
+key			DUPE
+key			DUPE
+key			DUPE
+key management service			DUPE
+keyboard			DUPE
+keyboard			DUPE
+keypad			DUPE
+keyword			DUPE
+label			DUPE
+label			DUPE
+label			DUPE
+label			DUPE
+language			DUPE
+language			DUPE
+layout			DUPE
+layout			DUPE
+layout			DUPE
+layout			DUPE
+leaderboards			DUPE
+legacy			DUPE
+library			DUPE
+library			DUPE
+lifestyle			DUPE
+lifestyle			DUPE
+like			DUPE
+line			DUPE
+link			DUPE
+link			DUPE
+list			DUPE
+list			DUPE
+location			DUPE
+lock screen			DUPE
+log			DUPE
+logging			DUPE
+m			DUPE
+mail			DUPE
+mail			DUPE
+map			DUPE
+maps			DUPE
+matchmaking			DUPE
+mature			DUPE
+mbr			DUPE
+me			DUPE
+member			DUPE
+member			DUPE
+membership			DUPE
+memory			DUPE
+menu button			DUPE
+messaging			DUPE
+microphone			DUPE
+microsoft camera			DUPE
+microsoft community			DUPE
+microsoft family safety			DUPE
+microsoft hotmail			DUPE
+microsoft onedrive			DUPE
+microsoft points			DUPE
+microsoft safety and security center			DUPE
+microsoft store			DUPE
+mobile			DUPE
+mobile			DUPE
+mobile			DUPE
+mobile device			DUPE
+modality			DUPE
+moji			DUPE
+mpeg			DUPE
+multi-touch			DUPE
+music			DUPE
+music			DUPE
+music			DUPE
+music			DUPE
+music			DUPE
+mute			DUPE
+mute			DUPE
+namespace			DUPE
+network			DUPE
+network profile			DUPE
+new releases			DUPE
+news			DUPE
+news			DUPE
+node			DUPE
+notebook			DUPE
+notification			DUPE
+notification			DUPE
+notification			DUPE
+nudge			DUPE
+offline			DUPE
+offline			DUPE
+offline			DUPE
+offline			DUPE
+offline			DUPE
+onedrive			DUPE
+online			DUPE
+online			DUPE
+online			DUPE
+online status			DUPE
+outgoing call			DUPE
+owner			DUPE
+package			DUPE
+packet			DUPE
+pan			DUPE
+pan			DUPE
+pan			DUPE
+parental controls			DUPE
+parity			DUPE
+passkey			DUPE
+path			DUPE
+pay as you go			DUPE
+peer			DUPE
+pen			DUPE
+pencil			DUPE
+people			DUPE
+people near me			DUPE
+performance			DUPE
+permission			DUPE
+personal			DUPE
+personal folder			DUPE
+personalization			DUPE
+personalize			DUPE
+pg			DUPE
+phone			DUPE
+photo			DUPE
+photo gallery			DUPE
+photos			DUPE
+pic			DUPE
+picture			DUPE
+picture			DUPE
+pin			DUPE
+pin			DUPE
+pin			DUPE
+pinch			DUPE
+planner			DUPE
+point			DUPE
+point			DUPE
+point			DUPE
+pointer			DUPE
+policy			DUPE
+policy			DUPE
+port			DUPE
+post			DUPE
+post			DUPE
+power			DUPE
+power			DUPE
+premium			DUPE
+preroll			DUPE
+press and hold			DUPE
+press and hold			DUPE
+preview			DUPE
+preview			DUPE
+private			DUPE
+product key			DUPE
+profile			DUPE
+profile			DUPE
+profile			DUPE
+profile			DUPE
+profile			DUPE
+profile			DUPE
+profile			DUPE
+protect			DUPE
+provisioning			DUPE
+proxy			DUPE
+proxy			DUPE
+publisher			DUPE
+push notifications			DUPE
+qr code			DUPE
+quad			DUPE
+queue			DUPE
+radio			DUPE
+radio			DUPE
+reader			DUPE
+reading list			DUPE
+record			DUPE
+recover			DUPE
+redeem			DUPE
+relevance			DUPE
+remote desktop			DUPE
+remote desktop			DUPE
+replica			DUPE
+replication topology			DUPE
+researcher			DUPE
+reset			DUPE
+reset			DUPE
+resource			DUPE
+resource			DUPE
+resource			DUPE
+respond			DUPE
+retweet			DUPE
+ribbon			DUPE
+rotate			DUPE
+rotate			DUPE
+routing			DUPE
+row			DUPE
+rule			DUPE
+run time			DUPE
+save			DUPE
+scan			DUPE
+scan			DUPE
+scan			DUPE
+scope			DUPE
+search			DUPE
+search			DUPE
+search			DUPE
+search			DUPE
+search			DUPE
+search			DUPE
+secure score			DUPE
+security			DUPE
+self-host			DUPE
+send			DUPE
+sensor			DUPE
+service			DUPE
+service provider			DUPE
+session			DUPE
+settings			DUPE
+settings			DUPE
+settings			DUPE
+setup			DUPE
+sex			DUPE
+share			DUPE
+share			DUPE
+share			DUPE
+share			DUPE
+shut down			DUPE
+sign in			DUPE
+sign out			DUPE
+signature			DUPE
+sku			DUPE
+slide			DUPE
+slideshow			DUPE
+sms			DUPE
+snap			DUPE
+snap			DUPE
+snap			DUPE
+social			DUPE
+social			DUPE
+social			DUPE
+source document			DUPE
+space			DUPE
+spdif			DUPE
+speech			DUPE
+speech			DUPE
+speed dial			DUPE
+sports			DUPE
+sports			DUPE
+sports			DUPE
+spotlight			DUPE
+stack			DUPE
+stack			DUPE
+stage			DUPE
+start			DUPE
+start			DUPE
+start			DUPE
+start			DUPE
+start			DUPE
+start button			DUPE
+start screen			DUPE
+stock keeping unit			DUPE
+storage			DUPE
+storage card			DUPE
+storage space			DUPE
+store			DUPE
+story			DUPE
+stream			DUPE
+stream			DUPE
+streaming			DUPE
+stretch			DUPE
+stretch			DUPE
+subscribe			DUPE
+subtitle			DUPE
+support			DUPE
+sweep			DUPE
+swipe			DUPE
+swipe			DUPE
+switch			DUPE
+switch			DUPE
+switch			DUPE
+sync			DUPE
+synced folder			DUPE
+synchronization manager			DUPE
+system information			DUPE
+systemroot			DUPE
+tab			DUPE
+tag			DUPE
+tag			DUPE
+tag			DUPE
+tap			DUPE
+tap			DUPE
+tap			DUPE
+tap and hold			DUPE
+team			DUPE
+telemetry			DUPE
+telnet			DUPE
+terms of use			DUPE
+terms of use			DUPE
+text			DUPE
+text reply			DUPE
+tga			DUPE
+theme			DUPE
+theme			DUPE
+thread			DUPE
+tip			DUPE
+to-do			DUPE
+to-do			DUPE
+to-do			DUPE
+token			DUPE
+token			DUPE
+toolbar			DUPE
+tools			DUPE
+top songs			DUPE
+topology			DUPE
+touch keyboard			DUPE
+train			DUPE
+transaction			DUPE
+translator			DUPE
+trap			DUPE
+travel			DUPE
+trending			DUPE
+trial			DUPE
+trusted platform module			DUPE
+tv			DUPE
+unavailable			DUPE
+uni-processor			DUPE
+uninstall			DUPE
+unlike			DUPE
+unlink			DUPE
+unlink			DUPE
+unlock			DUPE
+unlock			DUPE
+unlock			DUPE
+unmute			DUPE
+unstack			DUPE
+upgrade			DUPE
+upload			DUPE
+upload			DUPE
+upload			DUPE
+upload			DUPE
+upstream			DUPE
+upvote			DUPE
+validate			DUPE
+validation			DUPE
+validation			DUPE
+vat			DUPE
+vibrate			DUPE
+video			DUPE
+video			DUPE
+video			DUPE
+video call			DUPE
+video call			DUPE
+video message			DUPE
+video message			DUPE
+video messages			DUPE
+view			DUPE
+violence			DUPE
+violence			DUPE
+virtual smart card			DUPE
+voicemail			DUPE
+volume			DUPE
+wallet			DUPE
+wallpaper			DUPE
+weather			DUPE
+web			DUPE
+web address			DUPE
+web application			DUPE
+web page			DUPE
+web-based application			DUPE
+wfp			DUPE
+windows button			DUPE
+windows phone			DUPE
+windows photo gallery			DUPE
+windows update			DUPE
+wmi			DUPE
+work			DUPE
+workplace join			DUPE
+workspace			DUPE
+world clock			DUPE
+world clock			DUPE
+write			DUPE
+zoom			DUPE
+zoom			DUPE
+zoom in			DUPE
+zoom out			DUPE

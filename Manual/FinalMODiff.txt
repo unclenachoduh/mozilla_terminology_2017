@@ -1,0 +1,110 @@
+abuse,noun,Mozilla.org,,Special thanks to all of you who help report abuses of Mozilla marks,,END
+abuse,verb,Mozilla.org,,In addition any participants who abuse the reporting process will be considered to be in violation of these guidelines,,END
+accessible,adjective,Mozilla.org,,The Web should remain open and accessible to all,,END
+accountability,noun,Mozilla.org,,Transparent community based processes promote participation accountability and trust,,END
+accountable,adjective,Mozilla.org,,Governments should be held accountable,,END
+activist,noun,Mozilla.org,,We connect support and amplify the work of technologists policy wonks artists and activists committed to helping shape and drive Mozilla’s campaigns,,END
+add-on,noun,Mozilla.org,,A Firefox addon that uses interactive visualizations to show you the first and third party sites,addon,END
+adoption,noun,Mozilla.org,,We are committed to driving forward the adoption of HTML as a platform for the mobile industry,,END
+advertising networks,noun,Mozilla.org,,Firefox will tell advertising networks and other websites and applications that you want to opt out of tracking,,END
+advocacy,noun,Mozilla.org,,The foundation that supports and drives our advocacy work by bringing together awesome people,,END
+artist,noun,Mozilla.org,,Developers designers and artists are able to easily create accessible VR experiences,,END
+behavioral advertising,noun,Mozilla.org,,Firefox will tell advertising networks and other websites and applications that you want to optout of tracking for purposes like behavioral advertising,,END
+browsing habits,noun,Mozilla.org,,Collect information about our browsing habits,,END
+bug,noun,Mozilla.org,,Firefox engineers livehack and crush bugs,,END
+builders,noun,Mozilla.org,,At Mozilla we’re a global community of technologists thinkers and builders,,END
+community-driven,adjective,Mozilla.org,,,,END
+confidentiality,noun,Mozilla.org,,Respect people’s right to privacy and confidentiality,,END
+copyright reform,noun,Mozilla.org,,Advocating for net neutrality copyright reform and other issues,,END
+crash,noun,Mozilla.org,,Install Nightly and help us improve Firefox quality hunt crashes and regressions,,END
+creators,noun,Mozilla.org,,Calling the creators of today’s Internet,,END
+crowdsourced,adjective,Mozilla.org,,Mozilla Stumbler is an opensource wireless network scanner which collects GPS cellular and wireless network metadata for our crowdsourced location database,,END
+curricula,noun plural,Mozilla.org,,Creating open curricula that empowers people,curriculum,END
+customizable,adjective,Mozilla.org,,Firefox Marketplace will offer developers’ discovery distribution and monetization opportunities and will also be customizable by partners,,END
+cyber bullying,noun,Mozilla.org,,iscouraging people from getting online cyberbullying and cyber violence threaten not just individuals but the Internet itself,cyberbullying,END
+cyber security,noun,Mozilla.org,,cybersecurity is actually really simple it just means protecting yourself and your information online,cybersecurity,END
+cyber violence,noun,Mozilla.org,,iscouraging people from getting online cyberbullying and cyber violence threaten not just individuals but the Internet itself,,END
+cyberattack,noun,Mozilla.org,,At this point it feels like we’ve all been victims of a cyberattack,,END
+decentralization,noun,Mozilla.org,,Decentralization means Net Neutrality,,END
+designer,noun,Mozilla.org,,Designers and artists are able to easily create accessible VR experiences,,END
+developer,noun,Mozilla.org,,Developers are able to easily create accessible VR experiences,,END
+digital citizen,noun,Mozilla.org,,Together these informed digital citizens move beyond just consuming content,,END
+digital citizenship,noun,Mozilla.org,,How you can cultivate your digital citizenship,,END
+digital footprint,noun,Mozilla.org,,But our digital footprints reveal more about us than where we’ve been,,END
+digital lockbox,noun,Mozilla.org,,If you had a digital lockbox that no one could see but you what would you put in it,,END
+doxxing,noun,Mozilla.org,,This also includes posting or threatening to post other people’s personally identifying information doxxing online,,END
+early adopter,noun,Mozilla.org,,Nightly is updated daily It is most appropriate for core Mozilla contributors and early adopters not regular users,,END
+emoji,noun,Mozilla.org,,emojis like kiss,,END
+engine,noun,Mozilla.org,,The layout engine that drives Firefox,,END
+evangelist,noun,Mozilla.org,,A passionate open source evangelist,,END
+fake news,noun,Mozilla.org,,Learn to spot fake news,,END
+forum,noun,Mozilla.org,,Special thanks to all of you who help report abuses of Mozilla marks participate in governance forums,,END
+gaming,noun,Mozilla.org,,Firefox is leading the charge in online gaming,,END
+gatekeepers,noun,Mozilla.org,,We will take on new threats to the Web's future from locked down proprietary platforms to wouldbe censors and gatekeepers,,END
+gear,noun,Mozilla.org,Items given to participants by Mozilla such as t-shirts and stickers,Official Mozilla gear is here,,END
+gif,noun,Mozilla.org,,Create your own Web content like videos blog posts GIF,,END
+global community,noun,Mozilla.org,,The real power behind Mozilla is a global community of of volunteers,,END
+glossary,noun,Mozilla.org,,Visit our cybersecurity glossary on Shape of the Web,,END
+Government Surveillance,noun,Mozilla.org,,Mozilla’s policy team proposes that government surveillance must follow three fundamental principles,,END
+grassroots,adjective,Mozilla.org,,Working at the grassroots and policy levels we teach web literacy,,END
+guidelines,noun,Mozilla.org,,These guidelines aim to support a community where all people should feel safe,,END
+identity,noun,Mozilla.org,,Which means your identity may be at risk of theft without you even knowing it,,END
+independent browser,noun,Mozilla.org,,Choose the independent browser,,END
+innovations,noun plural,Mozilla.org,Unique features developed for FireFox,Explore some of our latest innovations,,END
+innovator,noun,Mozilla.org,,All of which creates obstacles and uncertainty for innovators and leaves the door open for patent trolls,,END
+intellectual property,noun,Mozilla.org,,The Manifesto’s principles
+use the Mozilla assets intellectual property such as copyrights,,END
+interactive,adjective,Mozilla.org,,Learn how to maximize the interactive potential of the Web,,END
+interoperable,adjective,Mozilla.org,,The Web should remain open and interoperable,,END
+location-aware browsing,noun,Mozilla.org,,Websites that use location-aware browsing will ask where you are in order to bring you more relevant information,,END
+mainstream,adjective,Mozilla.org,,Product exploration initiatives like our ‘connected devices’ program aim to bring more mainstream products,,END
+mass surveillance,noun,Mozilla.org,,Calling on lawmakers all over the globe to rein in mass surveillance,,END
+meme,noun,Mozilla.org,,Keep making memes posting links and getting creative on the Web,,END
+milestone,noun,Mozilla.org,,Take a closer look at who we are including some of our biggest achievements and milestones,,END
+mobilize,verb,Mozilla.org,,This approach enables Mozilla to simultaneously build our capacity to mobilize millions of people quickly,,END
+native,adjective,Mozilla.org,Local software and applications,They can’t access the device’s underlying capabilities the way that native apps can,,END
+net neutrality,noun,Mozilla.org,,A decentralized internet owned by all of us is where net neutrality interoperability competition and local contribution thrive,,END
+nonprofit,noun,Mozilla.org,,Mozilla is proudly nonprofit and answers to no one but you,non-profit,END
+open-source,adjective,Mozilla.org,,Build and enable opensource technologies and communities,,END
+openness,noun,Mozilla.org,,Building with open standards and open source in our own products and supporting openness at every opportunity,,END
+optimize,verb,Mozilla.org,,We optimize Firefox for the way you use the Web,,END
+participation,noun,Mozilla.org,,Mozilla achieves success by helping more people make choices about what software they want to use what level of participation they would like to have online,,END
+pioneered,verb,Mozilla.org,,Mozilla is proud of the many technologies we have pioneered and submitted,,END
+pledge,noun,Mozilla.org,,The Mozilla community has pledged to protect and promote a platform providing opportunity,,END
+pre-alpha,adjective,Mozilla.org,,Are you a power-user comfortable installing pre-alpha software,,END
+pre-installed,adjective,Mozilla.org,,This powerful extension that comes pre-installed with Firefox Developer Edition,,END
+pre-release,adjective,Mozilla.org,,Experience cutting-edge features in a pre-release browser,,END
+preference,noun,Mozilla.org,Custom settings within a software application,You can manage your profile and preferences,,END
+private browsing,noun,Mozilla.org,,Private browsing in Firefox limits saving data about which sites and pages you have visited online,,END
+proactive,adjective,Mozilla.org,,They can be proactive about protecting users’ information,,END
+programmer,noun,Mozilla.org,,Mozilla programmers recommend these easy encryption tools,,END
+safeguard,noun,Mozilla.org,,When surveillance is too broad or lacks key safeguards,,END
+seamless,adjective,Mozilla.org,,Make sure you understand the tradeoffs of that seamless online experience,,END
+snoop,verb,Mozilla.org,,Anyone who chooses to snoop can see some or all of your activity,,END
+software,noun,Mozilla.org,,No software provides perfect protection from spying,,END
+spam,noun,Mozilla.org,,Thunderbird’s popular junk mail tools have been updated to stay ahead of spam,,END
+spam,verb,Mozilla.org,,Like phishing eg a fake bank email asking for your personal information spamming hacked accounts,,END
+sprint,noun,Mozilla.org,,MozCamps are regional events that bring together core paid and volunteer Mozilla staff members from all areas of the project for two full days of presentations discussions brainstorms work sprints hackathons and of course a little bit of fun,,END
+stakeholder,noun,Mozilla.org,,As with most issues of importance we believe education listening and dialogue amongst stakeholders are critical to finding solutions,,END
+stakeholder,noun,Mozilla.org,,Listening and dialogue amongst stakeholders are critical to finding solutions,,END
+student ambassador,noun,Mozilla.org,,Join us as a student ambassador,,END
+surf,verb,Mozilla.org,,So avoid sensitive activities when surfing in public,,END
+surveillance,noun,Mozilla.org,,The difference now is that they’ve moved beyond binoculars bugs and bad guys surveillance has gone digital,,END
+tabbed,adjective,Mozilla.org,,If you like Firefox’s tabbed browsing you’re going to love tabbed email,,END
+tech,noun,Mozilla.org,,Get the Mozilla newsletter for our latest tech news and more,,END
+technologist,noun,Mozilla.org,,We connect support and amplify the work of technologists,,END
+thinkers,noun,Mozilla.org,,Mozillians are a diverse group of thinkers builders educators and hackers,,END
+third party,adjective,Mozilla.org,Mozilla sites are no exception Like most other Web sites we also use third party tools,,third-party,END
+tinker,verb,Mozilla.org,,Mozilla‘s vision of the Internet is a place where anyone can access information a place where everyone can hack and tinker,,END
+trackers,noun,Mozilla.org,,Firefox protects your online privacy and blocks trackers,,END
+trojan horse,noun,Mozilla.org,,Antimalware features protect you from trojan horses and spyware,,END
+troubleshoot,verb,Mozilla.org,,Help easily identify and troubleshoot performance bottlenecks,,END
+universal access,noun,Mozilla.org,,Digital inclusion means promoting diversity practicing respect and supporting universal access online,,END
+unleash,verb,Mozilla.org,,We launched Firefox OS to unleash the full power of the Web,,END
+User Control,noun,Mozilla.org,,Firefox OS is the first truly open operating system for mobile devices delivering the same security privacy customization and user control,,END
+viable,adjective,Mozilla.org,,We've built the technologies and APIs to make the Web a rich and viable option,,END
+vulnerable,adjective,Mozilla.org,,,,END
+Web literacy,noun,Mozilla.org,,Participate in the web by testing your web literacy skills,,END
+web-literate,adjective,Mozilla.org,,Mozilla Webmaker works to create a more Web-literate plane,web literate,END
+webmakers,noun,Mozilla.org,,Mozilla is mobilized to ensure the protection of the Web and to empower tomorrow’s webmakers,,END
+webmaking,noun,Mozilla.org,,And if you ever want to talk about Webmaking and teaching I’m always available,,END

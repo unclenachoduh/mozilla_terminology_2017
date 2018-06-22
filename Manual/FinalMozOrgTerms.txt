@@ -1,0 +1,217 @@
+A-frame	<Proper Noun>
+about-to-be-released	<Adjective>
+about:config	<Proper Noun>
+abuse	<Noun Singular>
+abuse	<Basic Verb>
+accelerated innovation	<Proper Noun>
+acceptable use	<Proper Noun>
+access now	<Proper Noun>
+accessible	<Adjective>
+accountability	<Noun Singular>
+accountable	<Adjective>
+accuracy	<Noun Singular>
+accurate	<Noun Singular>
+acta	<Proper Noun>
+activism	<Noun Singular>
+activist	<Noun Singular>
+acxiom	<Proper Noun>
+add-on	<Noun Singular>
+addon	<Noun Singular>
+adoption	<Noun Singular>
+advance	<Basic Verb>
+advanced panel	<Proper Noun>
+advertising networks	<Noun Singular>
+advocacy	<Noun Singular>
+affirmative consent	<Noun Singular>
+aggregate	<Noun Singular>
+ally	<Noun Singular>
+anti-counterfeiting trade agreement	<Proper Noun>
+anti-harassment/discrimination policy	<Proper Noun>
+artist	<Noun Singular>
+attribution	<Noun Singular>
+aurora	<Proper Noun>
+behavioral advertising	<Noun Singular>
+beta	<Noun Singular>
+browsing habits	<Noun Singular>
+bug	<Noun Singular>
+bugzilla	<Proper Noun>
+builders	<Noun Singular>
+community-based	<Adjective>
+community-driven	<Adjective>
+compatibility	<Noun Singular>
+confidentiality	<Noun Singular>
+contribute	<Basic Verb>
+copyright reform	<Noun Singular>
+coral project	<Proper Noun>
+crash	<Noun Singular>
+creators	<Noun Singular>
+cross-platform	<Adjective>
+crowd-sourced	<Adjective>
+curricula	<Noun Plural>
+curriculum	<Noun Singular>
+customizable	<Adjective>
+cyber bullying	<Noun Singular>
+cyber security	<Noun Singular>
+cyber violence	<Noun Singular>
+cyberattack	<Noun Singular>
+cyberbullying	<Noun Singular>
+cybersecurity	<Noun Singular>
+debugger	<Noun Singular>
+decentralization	<Noun Singular>
+designer	<Noun Singular>
+developer	<Noun Singular>
+Developer Tools	<Noun Singular>
+devtools	<Proper Noun>
+digital citizen	<Noun Singular>
+digital citizenship	<Noun Singular>
+digital footprint	<Noun Singular>
+digital lockbox	<Noun Singular>
+direct-to-bill	<Adjective>
+doxxing	<Noun Singular>
+early adopter	<Noun Singular>
+electorate	<Noun Singular>
+emoji	<Noun Singular>
+enable	<Basic Verb>
+enable	<Basic Verb>
+engine	<Noun Singular>
+enhancement	<Noun Singular>
+entrepreneurs	<Noun Singular>
+esc	<Noun Singular>
+evangelist	<Noun Singular>
+fake news	<Noun Singular>
+false reporting	<Noun Singular>
+fellowship	<Noun Singular>
+Firefox Developer Edition	<Noun Singular>
+Firefox esr	<Proper Noun>
+flagship	<Adjective>
+forum	<Noun Singular>
+full-disk encryption	<Noun Singular>
+gaming	<Noun Singular>
+gatekeepers	<Noun Singular>
+gear	<Noun Singular>
+gear	<Noun Singular>
+gif	<Noun Singular>
+global community	<Noun Singular>
+glossary	<Noun Singular>
+Government Surveillance	<Noun Singular>
+graphic representation	<Noun Singular>
+grassroots	<Adjective>
+guidelines	<Noun Singular>
+hack	<Basic Verb>
+hack-a-thon	<Noun Singular>
+hackathon	<Noun Singular>
+hackfests	<Noun Singular>
+hand-picked	<Adjective>
+hands-on	<Adjective>
+identity	<Noun Singular>
+independent browser	<Noun Singular>
+innovation	<Noun Singular>
+innovation accelerator	<Proper Noun>
+innovator	<Noun Singular>
+intellectual property	<Noun Singular>
+interactive	<Adjective>
+Internet health	<Proper Noun>
+interoperable	<Adjective>
+kidzilla	<Proper Noun>
+knowledge-sharing	<Noun Singular>
+licensing trademarks	<Noun Singular>
+lightbeam	<Proper Noun>
+location-aware browsing	<Noun Singular>
+mainstream	<Adjective>
+maker party	<Proper Noun>
+marketplace	<Noun Singular>
+mass surveillance	<Noun Singular>
+meme	<Noun Singular>
+milestone	<Noun Singular>
+mobilize	<Basic Verb>
+mozcafe	<Proper Noun>
+mozcamps	<Proper Noun>
+mozfest	<Proper Noun>
+Mozilla Developer Network	<Noun Singular>
+mozilla festival	<Proper Noun>
+mozillian	<Proper Noun>
+mutual advantage	<Noun Singular>
+native	<Adjective>
+net neutrality	<Noun Singular>
+ngo	<Noun Singular>
+non-profit	<Noun Singular>
+nonprofit	<Noun Singular>
+Open Web fellows	<Proper Noun>
+open-source	<Adjective>
+openness	<Noun Singular>
+optimize	<Basic Verb>
+Page inspector	<Proper Noun>
+participate	<Basic Verb>
+participation	<Noun Singular>
+patent	<Noun Singular>
+patent troll	<Noun Singular>
+pdf	<Noun Singular>
+pioneered	<Basic Verb>
+pledge	<Noun Singular>
+policy wonk	<Noun Singular>
+pre-alpha	<Adjective>
+pre-installed	<Adjective>
+pre-release	<Adjective>
+preference	<Noun Singular>
+private browsing	<Noun Singular>
+proactive	<Adjective>
+programmer	<Noun Singular>
+proprietary platforms	<Noun Singular>
+prying eyes	<Noun Plural>
+regression	<Noun Singular>
+release	<Noun Singular>
+release	<Adjective>
+remix	<Basic Verb>
+report	<Noun Singular>
+report	<Adjective>
+representative	<Noun Singular>
+responsive design view	<Noun Singular>
+rust	<Proper Noun>
+safeguards	<Noun Plural>
+seamless	<Adjective>
+self-sustaining	<Adjective>
+sensitive	<Adjective>
+sexual advance	<Noun Singular>
+snappy	<Adjective>
+snoop	<Basic Verb>
+socioeconomic status	<Noun Singular>
+software	<Noun Singular>
+spam	<Noun Singular>
+spam	<Basic Verb>
+sprint	<Noun Singular>
+stability	<Noun Singular>
+stakeholder	<Noun Singular>
+stakeout	<Noun Singular>
+student ambassador	<Noun Singular>
+subsidiary	<Noun Singular>
+surf	<Basic Verb>
+surveillance	<Noun Singular>
+sustainability	<Noun Singular>
+sypware	<Noun Singular>
+tabbed	<Adjective>
+tech	<Noun Singular>
+technologist	<Noun Singular>
+thinkers	<Noun Singular>
+third party	<Noun Singular>
+third party	<Adjective>
+third-party	<Noun Singular>
+tinker	<Basic Verb>
+toolkit	<Proper Noun>
+trackers	<Noun Singular>
+trade-off	<Noun Singular>
+tradeoff	<Noun Singular>
+transact	<Basic Verb>
+trojan horse	<Noun Singular>
+troubleshoot	<Basic Verb>
+undercover	<Adjective>
+unexpected behavior	<Noun Singular>
+universal access	<Noun Singular>
+unleash	<Basic Verb>
+user acquisition	<Proper Noun>
+User Control	<Noun Singular>
+viable	<Adjective>
+vulnerability	<Noun Singular>
+vulnerable	<Adjective>
+Web literacy	<Noun Singular>
+web-literate	<Adjective>
+webmakers	<Noun Singular>
